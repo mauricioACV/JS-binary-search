@@ -1,2 +1,2 @@
 # JS-binary-search
-Created with CodeSandbox
+código en index.js
